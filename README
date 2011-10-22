@@ -1,0 +1,4 @@
+The purpose of this project was to read a .NSF (NES Sound Format) File, do the correct initialization,
+and then feed out a list of the frequency and duration of all the notes in a given track in the file.
+
+This project was written in smalltalk so that it could interface with the Kyma Sound Lab.
